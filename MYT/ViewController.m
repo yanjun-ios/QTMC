@@ -34,6 +34,7 @@
         [SVProgressHUD showSuccessWithStatus:@"修改成功！"];
     }];
    
+    NSLog(@"添加一条记录，测试版本还原！");
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
 }
